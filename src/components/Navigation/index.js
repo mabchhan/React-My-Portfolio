@@ -3,8 +3,7 @@ import React from "react";
 function Navigation(props) {
   const pages = ["portfolio", "contact", "resume", "about"];
   return (
-    <nav>
-      <ul className="flex-row"></ul>
+    <ul className="nav nav-tabs">
       {pages.map((page) => (
         <li className="nav-item" key={page}>
           <a
@@ -18,7 +17,7 @@ function Navigation(props) {
           </a>
         </li>
       ))}
-    </nav>
+    </ul>
   );
 }
 
