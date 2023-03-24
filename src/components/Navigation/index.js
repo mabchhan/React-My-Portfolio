@@ -1,7 +1,7 @@
 import React from "react";
 
 function Navigation(props) {
-  const pages = ["Portfolio", "Contact", "Resume", "About Me"];
+  const pages = ["About Me", "Portfolio", "Contact", "Resume"];
   return (
     <ul className="nav nav-tabs">
       {pages.map((page) => (

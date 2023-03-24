@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import Navigation from "../Navigation";
 import About from "../About";
+import Portfolio from "../Portfolio";
 import Contact from "../Contact/";
 function Header() {
   const [currentPage, setCurrentPage] = useState("About Me");
@@ -11,8 +12,8 @@ function Header() {
         return <About />;
       case "Contact":
         return <Contact />;
-      //   case "portfolio":
-      //     return <Projects></Projects>;
+      case "Portfolio":
+        return <Portfolio />;
       //   case "resume":
       //     return <Resume></Resume>;
       default:
