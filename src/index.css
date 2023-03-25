@@ -12,6 +12,30 @@ code {
     monospace;
 }
 
+.container {
+  background-color: #fdf2e9;
+}
+
+.container-header {
+  background-color: #fdf2e9;
+  padding-top: 10px;
+  /* width: 100%; */
+  padding-bottom: 25px;
+}
+
+.header-bg {
+  background-color: #232f3e;
+  color: #000;
+}
+
+.my-profile {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
 form {
   width: 40%;
 }
@@ -33,7 +57,7 @@ input {
 
 textarea {
   width: 600px;
-  height: 200px;
+  height: 150px;
   border: 3px solid #cccccc;
   padding: 5px;
   margin-top: 10px;
@@ -44,9 +68,18 @@ textarea {
 }
 
 .foot-height {
-  height: 15vh;
+  height: 10vh;
 }
 
 .foot-font {
   font-size: 12px;
+}
+
+.nav-tabs .nav-item .nav-link.active {
+  background-color: #e67e22;
+  color: #fff;
+}
+
+.nav-tabs > li > a {
+  color: #080808;
 }

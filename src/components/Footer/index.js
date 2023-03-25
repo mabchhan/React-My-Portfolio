@@ -3,7 +3,7 @@ import React from "react";
 // import linkin from "../../assets/images/Linkin.png";
 function Footer() {
   return (
-    <footer className="foot-height bg-secondary pt-2 pb-5 ">
+    <footer className="foot-height pb-3 ">
       <div className="container text-center ">
         <div className="row mb-2">
           {/* <div className="col"></div> */}

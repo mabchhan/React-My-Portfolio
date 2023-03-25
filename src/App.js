@@ -23,7 +23,7 @@ function App() {
   //   }
   //};
   return (
-    <div>
+    <div className="container">
       <div className="min-height">
         <Header />
         {/* <Navigation currentPage={currentPage} setCurrentPage={setCurrentPage} /> */}
