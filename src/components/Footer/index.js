@@ -1,12 +1,12 @@
 import React from "react";
-import github from "../../assets/images/github.png";
-import linkin from "../../assets/images/Linkin.png";
+// import github from "../../assets/images/github.png";
+// import linkin from "../../assets/images/Linkin.png";
 function Footer() {
   return (
-    <footer className="vh-15 bg-secondary pt-2 pb-5 ">
+    <footer className="foot-height bg-secondary pt-2 pb-5 ">
       <div className="container text-center ">
-        <div className="row ">
-          <div className="col"></div>
+        <div className="row mb-2">
+          {/* <div className="col"></div> */}
           <div className="col">
             <a
               href="https://github.com/mabchhan"
@@ -51,10 +51,11 @@ function Footer() {
             {/* </div> */}
             {/* <div className="col"> */}
             <a
-              href="https://github.com/mabchhan"
+              href="https://app.slack.com/client/T04148NDFST/D0443V8DFEK/rimeto_profile/U0443V8CPM5"
               target="_blank"
               rel="noopener noreferrer"
-              //   className="m-2"
+              data-toggle="tooltip"
+              title="Link to Slack"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -67,9 +68,11 @@ function Footer() {
               </svg>
             </a>
           </div>
-          <div className="col"></div>
+          {/* <div className="col"></div> */}
         </div>
-        <div className="row justify-content-center fs-8">Copy right</div>
+        <div className="row justify-content-center foot-font ">
+          Copyright © 2023, Mab Chhan
+        </div>
       </div>
     </footer>
   );

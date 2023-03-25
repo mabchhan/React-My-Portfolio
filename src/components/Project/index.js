@@ -1,7 +1,7 @@
 function Project({ props }) {
   const { name, link, repo } = props;
   return (
-    <div className="bg-info">
+    <div className="">
       <img
         src={require(`../../assets/images/${name}.jpg`)}
         alt={name}

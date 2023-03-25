@@ -22,20 +22,24 @@ function Header() {
   };
   return (
     <div className="container">
-      <div className="row  justify-content-center align-item-center">
-        <div className="col m-5">
+      <div className="row  justify-content-center align-item-center m-4">
+        <div className="col ">
           <h3>Mab Chhan</h3>
         </div>
 
-        <div className="col m-5">
+        <div className="col ">
           <Navigation
             currentPage={currentPage}
             setCurrentPage={setCurrentPage}
           />
         </div>
-        <div>
-          <h4 className="text-center m-3">{currentPage}</h4>
+      </div>
+      <div className="row">
+        <div className="col">
+          <h4 className="text-center my-3">{currentPage}</h4>
         </div>
+      </div>
+      <div className="row mb-2">
         <div>{renderPage()}</div>
       </div>
     </div>

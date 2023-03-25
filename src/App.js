@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import Navigation from "./components/Navigation";
 import Header from "./components/Header";
 import Footer from "./components/Footer";
-import About from "./components/About";
-import Contact from "./components/Contact";
+// import Navigation from "./components/Navigation";
+// import About from "./components/About";
+// import Contact from "./components/Contact";
 
 function App() {
   // const [currentPage, setCurrentPage] = useState("About");
@@ -24,11 +24,14 @@ function App() {
   //};
   return (
     <div>
-      <Header />
-      {/* <Navigation currentPage={currentPage} setCurrentPage={setCurrentPage} /> */}
-      {/* {renderPage()} */}
-
-      <Footer />
+      <div className="min-height">
+        <Header />
+        {/* <Navigation currentPage={currentPage} setCurrentPage={setCurrentPage} /> */}
+        {/* {renderPage()} */}
+      </div>
+      <div>
+        <Footer />
+      </div>
     </div>
   );
 }

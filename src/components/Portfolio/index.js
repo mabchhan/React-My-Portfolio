@@ -35,7 +35,7 @@ function Portfolio() {
   ];
   return (
     <div>
-      <div className="d-flex flex-wrap justify-content-center">
+      <div className="d-flex flex-wrap justify-content-center bg-info">
         {projects.map((project) => (
           <Project props={project} />
         ))}

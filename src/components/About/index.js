@@ -8,59 +8,7 @@ function About() {
         Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
         Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan. Hello, My
         name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan. Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan. Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan. Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
         My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.
-        Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan. Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.
-        Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan. Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.
-        Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Mab Chhan.Hello, My name Mab Chhan. Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan. Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Mab Chhan.Hello, My name Mab Chhan.
-        Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan. Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Mab Chhan.Hello, My name Mab
-        Chhan. Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan. Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Mab Chhan.Hello,
-        My name Mab Chhan. Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan. Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Mab
-        Chhan.Hello, My name Mab Chhan. Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan. Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Mab Chhan.Hello, My name Mab Chhan. Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name
-        Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello, My
-        name Mab Chhan. Hello, My name Mab Chhan.Hello, My name Mab Chhan.Hello,
-        My name Mab Chhan.Hello, My name Mab Chhan.Hello, My name Mab
-        Chhan.Hello, My name Mab Chhan.
       </p>
     </section>
   );
