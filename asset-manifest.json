@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-My-Portfolio/static/css/main.e77975b6.css",
+    "main.js": "/React-My-Portfolio/static/js/main.c877f9c2.js",
+    "static/media/about.jpg": "/React-My-Portfolio/static/media/about.cb9df5333e6190b93deb.jpg",
+    "static/media/my profile.jpg": "/React-My-Portfolio/static/media/my profile.65e81d9406658dbd0314.jpg",
+    "static/media/Weather-Dashboard.jpg": "/React-My-Portfolio/static/media/Weather-Dashboard.8fe4786db248deea53e3.jpg",
+    "index.html": "/React-My-Portfolio/index.html",
+    "main.e77975b6.css.map": "/React-My-Portfolio/static/css/main.e77975b6.css.map",
+    "main.c877f9c2.js.map": "/React-My-Portfolio/static/js/main.c877f9c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e77975b6.css",
+    "static/js/main.c877f9c2.js"
+  ]
+}
