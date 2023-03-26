@@ -83,3 +83,10 @@ textarea {
 .nav-tabs > li > a {
   color: #080808;
 }
+
+.about {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-bottom: 20px;
+}
