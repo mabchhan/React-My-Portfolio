@@ -3,8 +3,8 @@ import React from "react";
 // import linkin from "../../assets/images/Linkin.png";
 function Footer() {
   return (
-    <footer className="foot-height pb-3 ">
-      <div className="container text-center ">
+    <footer className="foot-height pb-3">
+      <div className="container text-center mt-3 ">
         <div className="row mb-2">
           {/* <div className="col"></div> */}
           <div className="col">
@@ -71,7 +71,7 @@ function Footer() {
           {/* <div className="col"></div> */}
         </div>
         <div className="row justify-content-center foot-font ">
-          Copyright © 2023, Mab Chhan
+          Copy right &copy; 2023 by Mab Chhan.
         </div>
       </div>
     </footer>

@@ -14,8 +14,8 @@ function Header() {
         return <Contact />;
       case "Portfolio":
         return <Portfolio />;
-      //   case "resume":
-      //     return <Resume></Resume>;
+      // case "Resume":
+      //   return <Resume />;
       default:
         return <About />;
     }
@@ -25,15 +25,22 @@ function Header() {
       <div className="container container-header">
         <div className="row  mt-3 mx-4">
           <div className="col ">
-            <div className="col-3 d-flex flex-column  align-items-center justify-content-center ">
-              <a href={<About />}>
-                <img
-                  src={require("../../assets/images/my profile.jpg")}
-                  alt="Mab Chhan Picture"
-                  className="my-profile"
-                />
-              </a>
-              <h4>Mab Chhan</h4>
+            <div
+              id="logo"
+              className="d-flex flex-xl-column flex-lg-row  align-items-start  "
+            >
+              <div>
+                <a href={<About />}>
+                  <img
+                    src={require("../../assets/images/my profile.jpg")}
+                    alt="Mab Chhan Picture"
+                    className="my-profile "
+                  />
+                </a>
+              </div>
+              <div>
+                <h3>Mab Chhan</h3>
+              </div>
             </div>
           </div>
 

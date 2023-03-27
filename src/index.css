@@ -32,8 +32,9 @@ code {
   width: 70px;
   height: 70px;
   border-radius: 50%;
-  justify-content: center;
+  /* justify-content: center; */
   margin-bottom: 5px;
+  align-items: center;
 }
 
 form {
@@ -69,6 +70,7 @@ textarea {
 
 .foot-height {
   height: 10vh;
+  border-top: 1px solid #ddd;
 }
 
 .foot-font {
@@ -81,6 +83,7 @@ textarea {
 }
 
 .nav-tabs > li > a {
+  font-size: 16px;
   color: #080808;
 }
 
@@ -89,4 +92,40 @@ textarea {
   width: 150px;
   height: 150px;
   margin-bottom: 20px;
+}
+
+.project {
+  box-shadow: 0 24px 48px rgba(0, 0, 0, 0.09);
+  border-radius: 11px;
+  /* margin: 4px 8px 10px 8px; */
+  /* overflow: hidden; */
+  transition: all 0.4s;
+}
+.project:hover {
+  transform: translateY(-12px);
+}
+
+.project-container {
+  padding: 36px;
+}
+
+@media (max-width: 1399px) {
+  #logo h3 {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 1199px) {
+  #logo .col-3 {
+    width: 50%;
+  }
+  #logo a {
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: 992px) {
+  #logo h3 {
+    font-size: 1.4rem;
+  }
 }
